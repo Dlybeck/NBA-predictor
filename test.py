@@ -7,4 +7,4 @@ def get_string():
     return 'This is the string you want to return.'
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=7123)
